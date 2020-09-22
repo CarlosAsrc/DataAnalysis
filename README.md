@@ -1,3 +1,16 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=CarlosAsrc_DataAnalysis&metric=alert_status)](https://sonarcloud.io/dashboard?id=CarlosAsrc_DataAnalysis)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=CarlosAsrc_DataAnalysis&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=CarlosAsrc_DataAnalysis)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=CarlosAsrc_DataAnalysis&metric=security_rating)](https://sonarcloud.io/dashboard?id=CarlosAsrc_DataAnalysis)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=CarlosAsrc_DataAnalysis&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=CarlosAsrc_DataAnalysis)
+
+
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=CarlosAsrc_DataAnalysis&metric=coverage)](https://sonarcloud.io/dashboard?id=CarlosAsrc_DataAnalysis)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=CarlosAsrc_DataAnalysis&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=CarlosAsrc_DataAnalysis)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=CarlosAsrc_DataAnalysis&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=CarlosAsrc_DataAnalysis)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=CarlosAsrc_DataAnalysis&metric=bugs)](https://sonarcloud.io/dashboard?id=CarlosAsrc_DataAnalysis)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=CarlosAsrc_DataAnalysis&metric=code_smells)](https://sonarcloud.io/dashboard?id=CarlosAsrc_DataAnalysis)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=CarlosAsrc_DataAnalysis&metric=ncloc)](https://sonarcloud.io/dashboard?id=CarlosAsrc_DataAnalysis)
+
 # Challange
 
 A data analysis system that import lots of flat files, read, analyse the data, and output a report. The analysis must be executed every changes in the input directory.
